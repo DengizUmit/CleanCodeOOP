@@ -1,0 +1,23 @@
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\obj\Debug\net5.0\Business.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Console Application.deps.json
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Console Application.runtimeconfig.json
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Console Application.runtimeconfig.dev.json
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Console Application.exe
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Business.dll
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Console Application.dll
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Core.dll
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Console Application.pdb
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\bin\Debug\net5.0\Core.pdb
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\obj\Debug\net5.0\Business.dll
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\ÜmitDengiz\source\repos\dengizUmit\CleanCodeOOP\Business\obj\Debug\net5.0\Business.pdb
